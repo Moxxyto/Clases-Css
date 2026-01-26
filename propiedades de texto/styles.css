@@ -1,0 +1,35 @@
+
+h1 {font-size: 18px,  }
+
+
+p { color:black;
+    font-family: roboto;
+    font-size: 18px;
+    font-weight: 400;
+    font-size: italic;
+    text-align: start;
+    line-height: 1.5;
+    letter-spacing: 1px;
+
+    
+
+}
+   
+
+
+
+span{ 
+    text-decoration: none;
+    color: blue;
+}
+
+ul {
+    color: darkgreen;
+
+}
+
+a {text-decoration: none;
+color: blueviolet;
+font-size: 18px;}
+
+
